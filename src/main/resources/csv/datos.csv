@@ -1,0 +1,5 @@
+idProducto,nombreProducto,precio,idCategoria,nombreCategoria,idCliente,nombreCliente
+1,Televisor,300.0,1,Electrónica,1,Juan
+2,Lavadora,250.0,2,Hogar,2,Ana
+3,Camiseta,20.0,3,Ropa,3,Pedro
+1,Televisor,300.0,1,Electrónica,2,Ana
